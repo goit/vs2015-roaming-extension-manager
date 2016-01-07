@@ -2,7 +2,7 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>roaming-ext-vs2015</id>
+    <id>roaming-extension-manager-vs2015</id>
     <title>Roaming Extension Manager (VSIX)</title>
     <version>2.0.0.0</version>
     <authors>Extension: Visual Studio Platform Team (Microsoft)
@@ -21,7 +21,7 @@ When you sign into Visual Studio, you can quickly see a list of your extensions 
     <copyright>Visual Studio Platform Team (Microsoft)</copyright>
     <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/7b421a95-c32c-4433-a2be-a41b276013ab/eula?licenseType=None</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.githubusercontent.com/goitsk/roaming-ext-vs2015/master/assets/RoamingExtensionManager_128x.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/goitsk/roaming-ext-vs2015/master/assets/RoamingExtensionManager_128x.png</iconUrl>
     <releaseNotes>Roaming Extension Manager (v2.0.0.0) for Visual Studio 2015</releaseNotes>
   </metadata>
   <files>

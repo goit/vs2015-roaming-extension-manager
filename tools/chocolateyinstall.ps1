@@ -6,8 +6,8 @@ $ErrorActionPreference = 'Stop'; # stop on all errors
 
 $packageArgs = @{
   packageName   = 'roaming-ext-vs2015'
-  url           = 'https://visualstudiogallery.msdn.microsoft.com/7b421a95-c32c-4433-a2be-a41b276013ab/file/172117/2/RoamingExtensionManager.vsix'
-  vsVersion     = 15
+  vsixUrl       = 'https://visualstudiogallery.msdn.microsoft.com/7b421a95-c32c-4433-a2be-a41b276013ab/file/172117/2/RoamingExtensionManager.vsix'
+  vsVersion     = 14
   checksum      = '8c94418122d70d30d4cba05ca87d1a21b5be7a69'
   checksumType  = 'sha1'
 }

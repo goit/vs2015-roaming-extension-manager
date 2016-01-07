@@ -1,5 +1,9 @@
 # Created by https://www.gitignore.io/api/visualstudiocode,sublimetext,windows
 
+### Nuget ###
+.nupkg
+
+
 ### VisualStudioCode ###
 .vscode
 
