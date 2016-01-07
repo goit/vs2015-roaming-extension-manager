@@ -5,8 +5,7 @@
     <id>roaming-extension-manager-vs2015</id>
     <title>Roaming Extension Manager (VSIX)</title>
     <version>2.0.0.0</version>
-    <authors>Extension: Visual Studio Platform Team (Microsoft)
-Chocolatey Package: Jozef Izso</authors>
+    <authors>EVisual Studio Platform Team (Microsoft)</authors>
     <owners>Jozef Izso</owners>
     <summary>Allows users to roam and download Visual Studio extensions across machines.</summary>
     <description># Roaming Extension Manager
