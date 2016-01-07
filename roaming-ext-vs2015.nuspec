@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>roaming-ext-vs2015</id>
+    <title>Roaming Extension Manager (VSIX)</title>
+    <version>2.0.0.0</version>
+    <authors>Extension: Visual Studio Platform Team (Microsoft)
+Chocolatey Package: Jozef Izso</authors>
+    <owners>Jozef Izso</owners>
+    <summary>Allows users to roam and download Visual Studio extensions across machines.</summary>
+    <description># Roaming Extension Manager
+The Roaming Extension Manager helps you keep track of all your favorite extensions across all of your development environments. Roaming your extensions keeps track of the extensions you have installed by creating a synchronized list in the cloud.
+
+When you sign into Visual Studio, you can quickly see a list of your extensions by going to Tools, Extensions and Updates, and clicking Roaming Extension Manager. It tracks which extensions you have installed and lets you choose which ones to are added to your Roaming list. With more cool extensions appearing in the gallery every day, this tool makes it quick and easy to set up each dev environment with your favorite extensions.
+</description>
+    <projectUrl>https://visualstudiogallery.msdn.microsoft.com/7b421a95-c32c-4433-a2be-a41b276013ab</projectUrl>
+    <packageSourceUrl>https://github.com/goitsk/roaming-ext-vs2015</packageSourceUrl>
+    <bugTrackerUrl>https://github.com/goitsk/roaming-ext-vs2015/issues</bugTrackerUrl>
+    <tags>Extension Manager Visual Studio 2015 VSIX visualstudio</tags>
+    <copyright>Visual Studio Platform Team (Microsoft)</copyright>
+    <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/7b421a95-c32c-4433-a2be-a41b276013ab/eula?licenseType=None</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
