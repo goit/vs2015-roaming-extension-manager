@@ -21,7 +21,8 @@ When you sign into Visual Studio, you can quickly see a list of your extensions 
     <copyright>Visual Studio Platform Team (Microsoft)</copyright>
     <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/7b421a95-c32c-4433-a2be-a41b276013ab/eula?licenseType=None</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes></releaseNotes>
+    <iconUrl>https://raw.githubusercontent.com/goitsk/roaming-ext-vs2015/master/assets/RoamingExtensionManager_128x.png</iconUrl>
+    <releaseNotes>Roaming Extension Manager (v2.0.0.0) for Visual Studio 2015</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
